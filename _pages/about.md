@@ -9,8 +9,6 @@ redirect_from:
 
 **This page is under construction. Please visit https://youtaolu.net for quick info.**
 
-About Me
-======
 I am a Team Science Project Researcher at the [International Research Center for Neurointelligence (WPI-IRCN)](https://ircn.jp/en/), Institutes for Advanced Study, The University of Tokyo. I work jointly with Dr. Yukie Nagai at the [Cognitive Developmental Robotics Lab](https://developmental-robotics.jp/en/home/) and Dr. Sho Tsuji at [BabyLab](https://babylab.ircn.jp/en/) to investigate the role of social interaction in child development, particularly language development. My research interests also include cross-cultural and cross-linguistic comparisons, with a particular focus on the distinctive characteristics of Japanese language and culture.
 
 Before joining IRCN in 2022, I completed my Ph.D. in Cognitive Science in the Department of Cognitive, Linguistic, and Psychological Sciences at Brown University, under the supervision of Professor James Morgan. My doctoral research focused on cross-linguistic comparisons of spoken homophone processing.
